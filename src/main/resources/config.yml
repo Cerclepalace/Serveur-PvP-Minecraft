@@ -1,0 +1,10 @@
+nexus:
+  environment: development
+  telemetry:
+    enabled: false
+  ai:
+    enabled: false
+  economy:
+    enabled: false
+  announcements:
+    enabled: false
