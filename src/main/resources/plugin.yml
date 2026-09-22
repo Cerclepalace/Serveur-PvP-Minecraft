@@ -6,10 +6,10 @@ author: Cerclepalace
 api-version: '26.2'
 commands:
   nexus:
-    description: Nexus core diagnostics
-    usage: /nexus
-    permission: nexus.admin
+    description: Nexus PvP command interface
+    usage: /nexus [duel|ffa|end]
+    permission: nexus.use
 permissions:
-  nexus.admin:
-    description: Access Nexus administrative diagnostics
-    default: op
+  nexus.use:
+    description: Use Nexus player commands
+    default: true
