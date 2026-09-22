@@ -1,0 +1,15 @@
+name: NexusCore
+version: 0.1.0-SNAPSHOT
+main: fr.cerclepalace.nexus.NexusCorePlugin
+description: Core foundation for the Nexus PvP network
+author: Cerclepalace
+api-version: '26.2'
+commands:
+  nexus:
+    description: Nexus core diagnostics
+    usage: /nexus
+    permission: nexus.admin
+permissions:
+  nexus.admin:
+    description: Access Nexus administrative diagnostics
+    default: op
