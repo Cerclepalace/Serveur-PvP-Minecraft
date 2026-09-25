@@ -1,0 +1,4 @@
+protocol-version: 1
+maintenance: false
+health:
+  enabled: true
