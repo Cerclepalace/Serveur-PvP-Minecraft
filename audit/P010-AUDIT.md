@@ -6,7 +6,6 @@ Date: 2026-09-25
 - Branche: `build/p004-p010-foundation`
 - PR: #1
 - Base: `main`
-- Head: `7f32685bcd4417a1123b584b021110d2cda82045`
 - Main non modifiée par ce lot.
 
 ## Audit statique
