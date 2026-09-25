@@ -1,0 +1,9 @@
+name: NexusCore
+version: 0.1.0-SNAPSHOT
+main: fr.epicube.reconquete.core.NexusCorePlugin
+description: Core autoritaire du serveur PvP Reconquête
+api-version: '26.2'
+commands:
+  nexus:
+    description: Commandes de diagnostic NexusCore
+    usage: /nexus health
